@@ -6,7 +6,7 @@ This project is a mini data science case study using a real-world manufacturing 
 
 ## 📊 Dataset
 
-The dataset used in this project was sourced from Kaggle and includes features such as:
+The dataset used in this project was sourced from Kaggle ([here](https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset?resource=download)) and includes features such as:
 
 - `ProductionVolume`
 - `ProductionCost`
